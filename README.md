@@ -16,6 +16,20 @@ writable will have the code r-.
 
 ![Problem Demo](/images/image.png)
 
+# Problem Analysis(Algorithm)
+ - Steps
+    1. Input Directory path from the user.
+    2. Open the directory.
+    3. Check if the directory exists or not.
+    4. If Yes! Then store all the files in an File array.
+    5. If array contains no files then terminate. If Yes Step 6.
+    6. While not the end of array continue Step 7, 8, 9.
+    7. Format the raw date.
+    8. Read and Write code generation for the file.
+    9. Fetch the file name, length, last modified and code.
+    10. Display all file details.
+    11. Stop
+
 # Flow Chart
 ![Algorithm Flow Chart](/images/csw.jpeg)
 
