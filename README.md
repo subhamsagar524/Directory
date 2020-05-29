@@ -13,4 +13,4 @@ a w if the file is writeable, in that order. Use a “-” to indicate not
 readable or not writeable. For example, a file that is readable but not
 writable will have the code r-.
 
-![Problem Demo](/images/logo.png)
+![Problem Demo](/images/image.png)
