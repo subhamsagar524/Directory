@@ -14,3 +14,7 @@ readable or not writeable. For example, a file that is readable but not
 writable will have the code r-.
 
 ![Problem Demo](/images/image.png)
+
+Note that the File.lastModified() returns a long, which gives the modifi-
+cation time of the file. This number can’t easily be converted into a
+date, so just report its value.
