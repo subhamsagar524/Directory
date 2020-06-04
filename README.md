@@ -98,3 +98,6 @@ public class Directory {
     }
 }
 ```
+# Sample Run
+
+![Algorithm Flow Chart](/images/inputandoutput.jpeg)
