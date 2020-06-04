@@ -100,4 +100,4 @@ public class Directory {
 ```
 # Sample Run
 
-![Algorithm Flow Chart](/images/inputandoutput.jpeg)
+![Input and Output](/images/inputandoutput.jpeg)
